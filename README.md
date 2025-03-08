@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luohoufu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /><br />
+
+- 💻 As a programmer who pursues excellence, I'm passionate 🔥 about DevSecOps.  Currently, I'm working at [infinilabs.com](https://infinilabs.com), where I focus on search engine 🔍 development and related technologies.
+
+- 🏓 Table tennis enthusiast, though my skills are a bit rusty 😅.  I'm always looking for opportunities to play and improve! (It's been a while since I last practiced, so any tips are welcome!)
+
+<img ailgn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohoufu&layout=compact">
